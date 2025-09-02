@@ -39,6 +39,7 @@ Insights & Results – Identify how attendance and test scores impact overall pe
 🚀 How to Use
 
 Clone the repository.
+https://github.com/Chaviverma/Student-Performance-Analysis/tree/main
 
 Install dependencies:
 pip install pandas numpy jupyter
